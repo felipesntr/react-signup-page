@@ -23,7 +23,7 @@ export default function Sidebar() {
                     <button>Sign Up</button>
 
                     <h4>
-                        Already have an account? <a href="#">Sign In.</a>
+                        Already have an account? <a href="/signin">Sign In.</a>
                     </h4>
                 </Form>
                 <div>
